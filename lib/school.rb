@@ -22,7 +22,7 @@ class School
     end
     
     
-    puts sorted
+   sorted
   end
 end
 
