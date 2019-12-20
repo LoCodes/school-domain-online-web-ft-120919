@@ -12,6 +12,7 @@ class School
   end
   
   def grade(student_name)
+    
 end
 
 
